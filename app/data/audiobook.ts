@@ -84,4 +84,31 @@ export const audiobooks: Audiobook[] = [
     description: "é um thriller psicológico viciante que mistura suspense, mistério e segredos obscuros",
     durationSeconds: 28980, // ~8 horas 3 minutos (estimativa)
   },
+  {
+    id: "antes-que-o-cafe-esfrie",
+    title: "Antes que o Café Esfrie",
+    author: "Toshikazu Kawaguchi",
+    youtubeId: "vem4NlIMt0s",
+    coverUrl: "https://m.media-amazon.com/images/I/819T58VnbdL._UF1000,1000_QL80_.jpg",
+    description: "é um thriller psicológico viciante que mistura suspense, mistério e segredos obscuros",
+    durationSeconds: 23185, // ~6 horas 26 minutos (estimativa)
+  },
+  {
+    id: "o-poder-do-habito",
+    title: "O Poder do Hábito",
+    author: "Charles Duhigg",
+    youtubeId: "tv0XwWQilZM",
+    coverUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVRtVShdQHtp4iT0q1_UZV2Iqcj7sO5sYeA&s",
+    description: "porque fazermos o que fazemos, e como podemos mudar para melhor",
+    durationSeconds: 41220, // ~6 horas 26 minutos (estimativa)
+  },
+  {
+    id: "habitos-atomicos",
+    title: "Hábitos Atômicos",
+    author: "James Clear",
+    youtubeId: "weEfuDO06RA",
+    coverUrl: "https://m.media-amazon.com/images/I/81eT2pjx4jL.jpg",
+    description: "porque fazermos o que fazemos, e como podemos mudar para melhor",
+    durationSeconds: 21840, // ~6 horas 26 minutos (estimativa)
+  },
 ];
