@@ -111,4 +111,22 @@ export const audiobooks: Audiobook[] = [
     description: "porque fazermos o que fazemos, e como podemos mudar para melhor",
     durationSeconds: 21840, // ~6 horas 26 minutos (estimativa)
   },
+  {
+    id: "o-ego-e-seu-inimigo",
+    title: "O Ego e seu Inimigo",
+    author: "Ryan Holiday",
+    youtubeId: "z_LrY50KUh4",
+    coverUrl: "https://bibliotecamundial.com.br/imagens/capas/o-ego-e-seu-inimigo-pdf-B07576VT41.webp",
+    description: "porque fazermos o que fazemos, e como podemos mudar para melhor",
+    durationSeconds: 23760, // ~6 horas 26 minutos (estimativa)
+  },
+   {
+    id: "a-unica-coisa",
+    title: "A Única Coisa",
+    author: "Timothy Ferriss",
+    youtubeId: "8_8hh19uDDk",
+    coverUrl: "https://m.media-amazon.com/images/I/71E6vzs501L._AC_UF1000,1000_QL80_.jpg",
+    description: "porque fazermos o que fazemos, e como podemos mudar para melhor",
+    durationSeconds: 23760, // ~6 horas 26 minutos (estimativa)
+  },
 ];
